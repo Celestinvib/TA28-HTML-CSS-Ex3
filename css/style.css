@@ -1,3 +1,16 @@
 body {
-    padding: 20px;
+    background-color: antiquewhite;
+    font-family: Arial;
+}
+
+h1 ,h2, h4 , i {
+    color: rgb(107, 154, 180);
+}
+
+h2 {
+    background-color: rgb(255, 206, 147);
+}
+
+div {
+    margin-left: 25px;
 }
